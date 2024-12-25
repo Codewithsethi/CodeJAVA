@@ -22,7 +22,7 @@ Constraints:
 1 <= s.length <= 100
 s consists of printable ASCII characters.
  */
-package string.LeetCode;
+
 
 public class ToLowercase {
     

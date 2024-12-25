@@ -33,7 +33,7 @@ Constraints:
 columnTitle consists only of uppercase English letters.
 columnTitle is in the range ["A", "FXSHRXW"].
  */
-package string.LeetCode;
+
 
 class ExcelSheetColumnNumber {
 

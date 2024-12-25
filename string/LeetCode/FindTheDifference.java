@@ -28,7 +28,7 @@ t.length == s.length + 1
 s and t consist of lowercase English letters.
  
  */
-package string.LeetCode;
+
 
 public class FindTheDifference {
     

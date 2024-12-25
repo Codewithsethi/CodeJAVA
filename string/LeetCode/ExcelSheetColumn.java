@@ -31,7 +31,7 @@ Constraints:
 
 1 <= columnNumber <= 231 - 1
  */
-package string.LeetCode;
+
 
 public class ExcelSheetColumn {
     

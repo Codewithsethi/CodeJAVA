@@ -1,4 +1,4 @@
-package string.LeetCode;
+
 
 public class FindTheIndexOfTheFirstOccurence {
     

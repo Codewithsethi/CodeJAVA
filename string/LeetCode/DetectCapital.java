@@ -24,7 +24,7 @@ Constraints:
 word consists of lowercase and uppercase English letters.
 
  */
-package string.LeetCode;
+
 
 public class DetectCapital {
     
